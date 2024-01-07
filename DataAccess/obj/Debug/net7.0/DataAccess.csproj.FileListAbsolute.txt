@@ -1,0 +1,15 @@
+C:\Users\svrbe\OneDrive\Desktop\ReCapProject\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\svrbe\OneDrive\Desktop\ReCapProject\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\svrbe\OneDrive\Desktop\ReCapProject\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\svrbe\OneDrive\Desktop\ReCapProject\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Users\svrbe\OneDrive\Desktop\ReCapProject\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Users\svrbe\OneDrive\Desktop\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\svrbe\OneDrive\Desktop\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svrbe\OneDrive\Desktop\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\svrbe\OneDrive\Desktop\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\svrbe\OneDrive\Desktop\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\svrbe\OneDrive\Desktop\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\svrbe\OneDrive\Desktop\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\svrbe\OneDrive\Desktop\ReCapProject\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\svrbe\OneDrive\Desktop\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\svrbe\OneDrive\Desktop\ReCapProject\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
